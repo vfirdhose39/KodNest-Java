@@ -1,5 +1,5 @@
 // This program prints a formatted student ID card profile to the console.
-public class Main {
+public class StudentIDcard{
     public static void main(String[] args) {
         System.out.println("-------------------------");
         System.out.println("STUDENT PROFILE");
