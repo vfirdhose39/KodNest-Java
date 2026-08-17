@@ -1,3 +1,11 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "track/M01-understanding-java/T01-programming-languages-and-java/M01-T01-ST01-L-welcome-to-java-track/work/src",
+        "track/M02-introduction-to-java/T01-programming-constructs",
+        "track/M02-introduction-to-java/T02-control-flow-and-loops",
+        "track/M02-introduction-to-java/T03-console-input-with-scanner",
+        "track/M02-introduction-to-java/T04-classes-objects-and-memory",
+        "track/M02-introduction-to-java/T07-arrays-and-memorytraversal"
+    ]
 }
